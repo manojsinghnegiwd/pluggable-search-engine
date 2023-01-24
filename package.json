@@ -1,0 +1,19 @@
+{
+  "name": "pluggable-search-engine",
+  "version": "1.0.0",
+  "description": "Pluggable search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojsinghnegiwd/pluggable-search-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manojsinghnegiwd/pluggable-search-engine/issues"
+  },
+  "homepage": "https://github.com/manojsinghnegiwd/pluggable-search-engine#readme"
+}
